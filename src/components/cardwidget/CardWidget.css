@@ -1,0 +1,9 @@
+.navbar-brand:hover{
+    transform: scale(1.2);   
+}
+p{
+    font-size: 2rem;
+    color: red;
+}
+
+

@@ -1,0 +1,23 @@
+a{
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+
+li{
+    font-size: 2rem;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.imagen{
+    width: 150px;
+    height: 120px;  
+    cursor: pointer;
+}
+
+.imagen:hover{
+    transform: scale(1.2);
+}
