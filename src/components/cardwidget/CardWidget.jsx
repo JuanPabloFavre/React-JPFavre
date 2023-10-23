@@ -7,7 +7,7 @@ const CardWidget = () => {
         <nav className="navbar bg-body-tertiary">
             <div className="container d-flex align-items-center justify-content-center">
                 <a className="navbar-brand " href="#">
-                <img src={carrito} alt="Logo" width="110" height="100" className="d-inline-block align-text-top"></img>
+                <img src={carrito} alt="Logo" width="80" height="70" className="d-inline-block align-text-top"></img>
                 <p className="d-inline-block align-text-top">3</p>
                 </a>
             </div>
