@@ -7,16 +7,18 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import NavFooter from './components/footer/NavFooter'
 
 
+
 function App() {
 
 
   return (
     <>
-      <NavBar />
+
+       <NavBar />
       <Carousel />
       <CardWidget />
       <Cards />
-      <NavFooter />
+      <NavFooter /> 
 
     </>
   )
